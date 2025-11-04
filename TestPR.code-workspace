@@ -1,0 +1,57 @@
+{
+    "folders": [
+        {
+            "name": "/segeda@fortnite.com/TestPR",
+            "path": "D:/UEFE/TestPR/Content"
+        },
+        {
+            "name": "/segeda@fortnite.com/TestPR (Assets)",
+            "path": "C:/Users/seged/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/TestPR/TestPR-Assets"
+        },
+        {
+            "name": "vproject - DO NOT MODIFY",
+            "path": "C:/Users/seged/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/TestPR/vproject"
+        },
+        {
+            "name": "/Verse.org",
+            "path": "C:/Users/seged/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/TestPR/Verse"
+        },
+        {
+            "name": "/UnrealEngine.com",
+            "path": "C:/Users/seged/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/TestPR/UnrealEngine"
+        },
+        {
+            "name": "/Fortnite.com",
+            "path": "C:/Users/seged/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/TestPR/Fortnite"
+        }
+    ],
+    "settings": {
+        "files.exclude": {
+            "**/*.uasset": true,
+            "**/*.umap": true,
+            "**/*.png": true,
+            "**/*.jpg": true,
+            "**/*.tga": true,
+            "_INT": true,
+            "**/*.vproject": true,
+            "__ExternalActors__": true,
+            "__ExternalObjects__": true,
+            "Collections": true,
+            "Developers": true
+        },
+        "files.autoSave": "onWindowChange",
+        "editor.bracketPairColorization.enabled": false,
+        "editor.acceptSuggestionOnEnter": "off"
+    },
+    "launch": {
+        "version": "0.2.0",
+        "configurations": [
+            {
+                "name": "Verse Debug",
+                "type": "verse",
+                "request": "attach",
+                "debugServer": 1961
+            }
+        ]
+    }
+}
